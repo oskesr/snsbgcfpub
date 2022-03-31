@@ -1,7 +1,7 @@
 # importing csv module
 import csv
 
-# csv file name
+# csv file name, are currently hardcoded
 
 filenameBam = "/Users/omkulkarni/Documents/snsb/AB1/RADseq_adapter_06_2021_bam.csv"
 filenameKpl = "/Users/omkulkarni/Documents/snsb/AB1/RADseq_adapter_06_2021_kpl.csv"
